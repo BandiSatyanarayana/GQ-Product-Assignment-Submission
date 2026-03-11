@@ -1,8 +1,7 @@
 <h1 align="center">Product Teardown: Google Pay – UPI Payment Journey</h1>
-1. Product Overview
-This project analyzes Google Pay, a widely used fintech application in India that enables fast digital payments using UPI. The teardown focuses on the Send Money user journey, evaluating how users transfer money to contacts and merchants through the app.
-
-2. Core User Journey
+<h3>Product Overview</h3>
+<p>This project analyzes Google Pay, a widely used fintech application in India that enables fast digital payments using UPI. The teardown focuses on the Send Money user journey, evaluating how users transfer money to contacts and merchants through the app.</p>
+Core User Journey
 The payment process follows a simple flow:
 Open App → Select Contact / UPI ID → Enter Amount → Enter UPI PIN → Payment Confirmation.
 This journey is designed for speed and simplicity, allowing users to complete transactions within a few seconds.
